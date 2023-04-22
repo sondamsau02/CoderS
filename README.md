@@ -1,8 +1,6 @@
 
 Hey there! I'm Ngoc Son. 
-
 👨🏻‍💻 About Me
-
 🔭   I’m currently working Web Application Development
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
