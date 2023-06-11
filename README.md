@@ -5,7 +5,7 @@ Hey there! I'm Ngoc Son.
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
-🎓   I'm currently studying Software Engineering at UNETI Univiersity And College FPT (2019 - 2023).
+🎓   I'm currently studying Software Engineering at UNETI Univiersity And College FPT (2020 - 2024).
 
 🎿 Hobbies other than coding : Reading blogs about new technology, playing football, playing video games.
 # 📊GitHub Stats :
