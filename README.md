@@ -1,8 +1,9 @@
 
 Hey there! I'm Ngoc Son. 
-👨🏻‍💻 About Me
+👨🏻‍💻 About Me!
 
-🔭   I’m currently working as software engineer (intern 🤭) At Fpt Telecom!
+
+🔭   I’m currently working as software engineer (intern 🤭) At Fpt Telecom.
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
